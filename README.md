@@ -1,7 +1,3 @@
-**Note: We're temporarily locking this repository to stop abuse. We'll prune and reopen it soon.**
-
----
-
 # Exercism Frontend Developer Job: Project
 
 Thanks for wanting to apply for the Frontend Developer Job role! 🥳
